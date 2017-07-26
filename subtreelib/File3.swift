@@ -17,4 +17,7 @@ public class subtreelibClass3 {
     public func printOtherStuff(){
         print("other stuff")
     }
+    public func newStuffez(){
+        print("yay, let's rebase!")
+    }
 }
